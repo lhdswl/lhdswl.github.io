@@ -2,12 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lhdswl.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-12T09:25:00.462Z</updated>
+    <updated>2020-03-12T09:29:24.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lhdswl.github.io"/>
     <link rel="self" href="https://lhdswl.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>自先沉稳，后而爱人</subtitle>
     <logo>https://lhdswl.github.io/images/avatar.png</logo>
     <icon>https://lhdswl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Shout out to my friends.]]></title>
+        <id>https://lhdswl.github.io/post/shout-out-to-my-friends/</id>
+        <link href="https://lhdswl.github.io/post/shout-out-to-my-friends/">
+        </link>
+        <updated>2020-03-12T09:25:56.000Z</updated>
+        <content type="html"><![CDATA[<p><font size="30" color="">为了我的梦想，我要努力<br>
+希望我们可以在时间的长河中共同进步<br>
+希望我们都可以在年少是找到那个令你欢喜的人<br>
+希望我们可以在这个世界留下点痕迹</font></p>
+]]></content>
+    </entry>
 </feed>
