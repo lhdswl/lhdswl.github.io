@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lhdswl.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-12T09:29:24.918Z</updated>
+    <updated>2020-03-12T09:32:17.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lhdswl.github.io"/>
     <link rel="self" href="https://lhdswl.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://lhdswl.github.io/post/shout-out-to-my-friends/">
         </link>
         <updated>2020-03-12T09:25:56.000Z</updated>
-        <content type="html"><![CDATA[<p><font size="30" color="">为了我的梦想，我要努力<br>
+        <content type="html"><![CDATA[<p><font size="15" color="">为了我的梦想，我要努力<br>
 希望我们可以在时间的长河中共同进步<br>
 希望我们都可以在年少是找到那个令你欢喜的人<br>
 希望我们可以在这个世界留下点痕迹</font></p>
